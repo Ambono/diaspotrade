@@ -1,0 +1,150 @@
+.siteFooter {
+background-color:goldenrod;
+border-radius: 5px;
+padding:15px;
+margin-bottom: 10px;
+color: white;
+height:300px;
+text-align: center;
+}
+
+/*http://www.december.com/html/spec/color4.html*/
+.container{
+/*background-color: #FF33CE;*/
+background-color: #EEE0E5;
+}
+
+
+
+jumbotron {
+background-color: #33D7FF;
+ height: 300px;
+}
+
+.active img{border:2px solid #ff69b4 !important;}
+
+.imgclass
+{
+width: auto;
+height: auto;
+max-height: 110px;
+max-width: 160px;
+}
+
+.colimg{
+width: 100%;
+height: 100%;
+}
+.carousel-inner img {
+      width: auto; /* Set width to 100% */
+      margin: auto;
+      min-height:50px;
+  }
+  
+  
+
+ .clspacer{
+margin: 0 0 0 10px;
+background-color: #ADD8E6;
+padding: 4px;
+border-radius: 5px;
+}
+
+.rwspacer{
+margin: 15px 0 15px 0;
+background-color: silver;
+padding: 4px;
+}
+
+navbarstyler{
+    background-color: goldenrod;
+}
+
+.navbar{
+border-radius: 0px; 
+background-color: goldenrod;
+ padding-right:4px;
+position: relative;
+}
+
+navbar{
+border-radius: 0px; 
+background-color:goldenrod;
+ padding-right:4px
+}
+
+.sidenav{
+ background-color:white;
+ border:solid #ADD8E6; 
+ border-radius: 5px;
+ }
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+.btn{
+}
+
+.quicksearch{
+      border-radius: 10px;
+      width: 30%;
+    margin: 10px auto ;
+    float: none;
+    background-color: pink;
+}
+.searchengine{
+      border-radius: 10px;
+      width: 50%;
+    margin: 0px auto;
+    float: none;
+    background-color: goldenrod;
+}
+
+.table {
+    border-radius: 5px;
+    width: 50%;
+    margin: 0px auto;
+    float: none;
+    background-color: silver;   
+    border:0;
+}
+
+.magnify { width:480px; height:852px; margin:30px auto;}
+
+h1 { margin-top:150px; text-align:center;}
+
+.image{
+width:150px;
+}
+.zoom{
+width:0px;
+position:absolute;
+transition: width 0.3s linear 0s;
+border-style: intset;
+}
+.image:hover +.zoom{
+width:500px;
+}
+ 
+.comments{
+border: solid silver 2px;
+width:400px;
+height: auto;
+ margin: 15px;
+}
+ .rowmypage{
+ margin-bottom: 15px;
+ }
+
+#basketdivrefresh{
+border: solid silver 2px;
+padding: 2px;
+width:200px;
+height:auto;
+display:none;
+}
+	
+
+
